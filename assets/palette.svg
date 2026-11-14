@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 200" width="900" height="200" role="img" aria-label="Whitepaper palette: eleven colors with hex codes. Amber is reserved for cost.">
+  <rect width="900" height="200" fill="#070f0a"/>
+  <text x="20" y="28" font-family="monospace" font-size="14" fill="#eaf3ec">Whitepaper palette</text>
+  <g font-family="monospace" font-size="11" fill="#9fbcaa" text-anchor="start">
+    <rect x="20" y="46" width="70" height="70" fill="#070f0a" stroke="#4a7060"/>
+    <text x="20" y="136">Background</text><text x="20" y="152">#070f0a</text>
+    <rect x="100" y="46" width="70" height="70" fill="#030804" stroke="#4a7060"/>
+    <text x="100" y="136">Darkest</text><text x="100" y="152">#030804</text>
+    <rect x="180" y="46" width="70" height="70" fill="#0c170e" stroke="#4a7060"/>
+    <text x="180" y="136">Panels</text><text x="180" y="152">#0c170e</text>
+    <rect x="260" y="46" width="70" height="70" fill="#1d3126" stroke="#4a7060"/>
+    <text x="260" y="136">Lines</text><text x="260" y="152">#1d3126</text>
+    <rect x="340" y="46" width="70" height="70" fill="#eaf3ec"/>
+    <text x="340" y="136">Bone</text><text x="340" y="152">#eaf3ec</text>
+    <rect x="420" y="46" width="70" height="70" fill="#9fbcaa"/>
+    <text x="420" y="136">Sage</text><text x="420" y="152">#9fbcaa</text>
+    <rect x="500" y="46" width="70" height="70" fill="#6f8a78"/>
+    <text x="500" y="136">Moss</text><text x="500" y="152">#6f8a78</text>
+    <rect x="580" y="46" width="70" height="70" fill="#4a7060"/>
+    <text x="580" y="136">Fern</text><text x="580" y="152">#4a7060</text>
+    <rect x="660" y="46" width="70" height="70" fill="#7fd3a5"/>
+    <text x="660" y="136">Mint</text><text x="660" y="152">#7fd3a5</text>
+    <rect x="740" y="46" width="70" height="70" fill="#e8a34e"/>
+    <text x="740" y="136">Amber</text><text x="740" y="152">#e8a34e</text>
+    <rect x="820" y="46" width="70" height="70" fill="#c8882e"/>
+    <text x="820" y="136">Amber deep</text><text x="820" y="152">#c8882e</text>
+  </g>
+  <text x="20" y="184" font-family="monospace" font-size="12" fill="#e8a34e">Amber means cost or rework. Nothing else on screen uses it.</text>
+</svg>
